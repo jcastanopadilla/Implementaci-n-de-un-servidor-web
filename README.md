@@ -43,5 +43,7 @@ Para empezar, ingresa en el navegador la página web de virtual box.
 <img width="1365" height="719" alt="Captura de pantalla 2025-11-15 120140" src="https://github.com/user-attachments/assets/daa41ce2-6550-4f07-b322-8d0d874fbed3" />
 Luego nos aparecerá la siguiente ventana, donde se puede observar la última versión de VirtualBox, que actualmente es la de 7.2.4, damos clic en (Download) que está marcado con la línea roja.
 <img width="1365" height="676" alt="Captura de pantalla 2025-11-15 121145" src="https://github.com/user-attachments/assets/ba76b098-ae98-44ea-8d48-6812a5e76cc4" />
+
 Una vez damos clic mostrara lo siguiente y daremos clic donde está marcado Windows hosts y automática mente descarga.
+
 <img width="1363" height="681" alt="Captura de pantalla 2025-11-15 121811" src="https://github.com/user-attachments/assets/b3cc284c-e10b-4ae5-9194-afd0264f2a3f" />

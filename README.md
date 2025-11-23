@@ -190,3 +190,5 @@ Procederemos a configurar el perfil del servidor, colocaremos nuestro nombre, el
 Tratar de usar nemotecnia para el nombre del servidor y de usuario, estos serán importantes más adelante.
 
 Use una contraseña corta para que pueda desarrollar con facilidad esta guía.
+
+Instalaremos un servidor SSH, por si se siente más cómodo para trabajar remotamente en el servidor con una herramienta como Putty, para ello seleccionaremos la opción (Instalar servidor OpenSSH) y culminaremos seleccionando hecho.

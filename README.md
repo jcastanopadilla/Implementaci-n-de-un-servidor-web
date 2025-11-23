@@ -116,3 +116,4 @@ Luego, haremos clic en Hardware para asignarle algunos recursos a la máquina y 
 
 <img width="831" height="555" alt="Captura de pantalla 2025-11-15 132201" src="https://github.com/user-attachments/assets/84b834ca-1dde-4638-bddd-b78c24bf05e4" />
 
+## Recomendaciones:

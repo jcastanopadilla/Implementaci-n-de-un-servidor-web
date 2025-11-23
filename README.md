@@ -224,3 +224,6 @@ Procederemos a instalar Microstack
 
 ## Inicialización de microstack
 
+Para poder usar todo el ecosistema de openstack, debemos inicializar microstack, este procedimiento solo se debe realizar una sola vez, puede demorar entre 10 a 60 minutos dependiendo del equipo.
+
+- sudo microstack init --auto –control

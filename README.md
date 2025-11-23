@@ -116,4 +116,8 @@ Luego, haremos clic en Hardware para asignarle algunos recursos a la máquina y 
 
 <img width="831" height="555" alt="Captura de pantalla 2025-11-15 132201" src="https://github.com/user-attachments/assets/84b834ca-1dde-4638-bddd-b78c24bf05e4" />
 
+Asignar al procesador más de 4 núcleos.
 ## Recomendaciones:
+
+La guía de Ubuntu para Instalar Microstack [3], recomienda asignar más de 8Gb de la memoria ram, pero esto es subjetivo si le asignamos más del 65% del que tenemos disponible para este ejemplo (8GB), puede hacer colapsar el sistema y producir el famoso “Kernel Panic”, debemos de tener mucha precaución con este procedimiento porque en ocasiones este incidente daña la máquina virtual.
+

@@ -205,3 +205,6 @@ Se inicia el proceso de instalación, al finalizar todo el proceso quedara un re
 
 Al iniciar nos pedirá el usuario y contraseña, que hemos puesto con anterioridad, de esta forma habremos culminado la instalación satisfactoriamente.
 
+
+<img width="585" height="329" alt="imagen" src="https://github.com/user-attachments/assets/b94b0448-3168-48af-afc4-4ff7307ff7ea" />
+

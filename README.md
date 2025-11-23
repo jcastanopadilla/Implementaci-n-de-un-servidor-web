@@ -149,4 +149,8 @@ Al encender la maquina esperaremos un momento y nos saldrá el siguiente menú d
 
 <img width="1172" height="716" alt="Captura de pantalla 2025-11-15 142915" src="https://github.com/user-attachments/assets/7df24284-f3ab-459b-91df-fb63f998c3d9" />
 
+Se procede a configurar el teclado, si usted conoce su teclado puede asignarlo manualmente, en caso contrario muévase con las flechas de su teclado a la opción (Identificar teclado), presione la tecla enter, siga las instrucciones que aparecen en pantalla, finalmente muévase a la opción hecho y presione la tecla enter.
 
+<img width="583" height="497" alt="imagen" src="https://github.com/user-attachments/assets/348e7781-6e5f-437d-b0e4-e9880aa8c644" />
+
+En el tipo de instalación escogeremos la opción de Ubuntu server, para instalar completamente el sistema para tener una “mejor experiencia”, tal como lo indica el instalador.

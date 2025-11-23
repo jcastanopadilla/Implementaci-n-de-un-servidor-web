@@ -192,3 +192,16 @@ Tratar de usar nemotecnia para el nombre del servidor y de usuario, estos serán
 Use una contraseña corta para que pueda desarrollar con facilidad esta guía.
 
 Instalaremos un servidor SSH, por si se siente más cómodo para trabajar remotamente en el servidor con una herramienta como Putty, para ello seleccionaremos la opción (Instalar servidor OpenSSH) y culminaremos seleccionando hecho.
+
+<img width="592" height="496" alt="imagen" src="https://github.com/user-attachments/assets/4308bcb6-3ef9-47d2-8401-a717eff031e5" />
+
+No se agregarán características adicionales, por lo tanto, se descartan y se selecciona hecho.
+
+<img width="590" height="501" alt="Captura de pantalla 2025-11-15 184738" src="https://github.com/user-attachments/assets/b976a32d-e8ae-4657-a6f9-9201985bafc4" />
+
+Se inicia el proceso de instalación, al finalizar todo el proceso quedara un registro de las acciones detalladas, debemos seleccionar (Reiniciar ahora).
+
+<img width="590" height="505" alt="Captura de pantalla 2025-11-15 184905" src="https://github.com/user-attachments/assets/ee7dbeab-d710-4e5e-a6ed-d2b0510dc2a4" />
+
+Al iniciar nos pedirá el usuario y contraseña, que hemos puesto con anterioridad, de esta forma habremos culminado la instalación satisfactoriamente.
+

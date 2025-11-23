@@ -124,3 +124,9 @@ La guía de Ubuntu para Instalar Microstack [3], recomienda asignar más de 8Gb 
 Posteriormente haremos clic en terminar y culminaremos la creación de la máquina virtual.
 
 ## Configuración Máquina virtual:
+
+Ahora procederemos a configurar la máquina virtual antes de Iniciarla. Para ello seleccionaremos la máquina virtual y haremos clic en el botón configuración.
+
+<img width="1365" height="767" alt="Captura de pantalla 2025-11-15 133010" src="https://github.com/user-attachments/assets/1f38104f-108c-476e-b8e0-e61de9a28f39" />
+
+Ahora se montará la imagen ISO del servidor de Ubuntu (de no hacerse de esta forma VirtualBox suele crearle un usuario sin permisos de super usuario y debe asignarlo manualmente). Para ello iremos a la sección de almacenamiento, luego en el controlador IDE que se encuentra vacío haremos clic, en la parte lateral de la pestaña denominada atributos haremos clic en el icono del CD y finalmente en la opción “Choose a disk file…”.

@@ -87,3 +87,9 @@ Posteriormente de desmarcar la opción, damos clic en el botón Finish
 
 <img width="655" height="515" alt="Captura de pantalla 2025-11-15 125132" src="https://github.com/user-attachments/assets/17c98684-cdaa-488a-a89e-457f167d2024" />
 
+Al terminar, nos dirigimos al escritorio de nuestro ordenador y damos clic en el icono de VirtualBox.
+
+<img width="1365" height="725" alt="Captura de pantalla 2025-11-15 125259" src="https://github.com/user-attachments/assets/839269ce-6374-492c-8cb5-8d7e308ee398" />
+
+Como podemos observar ya se encuentra correctamente instalado virtualBox, listo para virtualizar cualquier sistema operativo.
+

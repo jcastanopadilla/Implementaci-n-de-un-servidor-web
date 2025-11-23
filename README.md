@@ -51,3 +51,6 @@ Una vez damos clic mostrara lo siguiente y daremos clic donde está marcado Wind
 
 <img width="1363" height="681" alt="Captura de pantalla 2025-11-15 121811" src="https://github.com/user-attachments/assets/b3cc284c-e10b-4ae5-9194-afd0264f2a3f" />
 Luego de haber seleccionado Windows hosts, empieza el proceso de descarga de VirtualBox.
+<img width="1365" height="675" alt="Captura de pantalla 2025-11-15 122536" src="https://github.com/user-attachments/assets/c0f0d7cf-1903-4f6b-9084-8cdb14e82fea" />
+
+Posteriormente cuando finalice la descarga iniciamos nuestra instalación.

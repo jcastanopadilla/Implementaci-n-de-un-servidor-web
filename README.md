@@ -50,3 +50,4 @@ Luego nos aparecerá la siguiente ventana, donde se puede observar la última ve
 Una vez damos clic mostrara lo siguiente y daremos clic donde está marcado Windows hosts y automática mente descarga.
 
 <img width="1363" height="681" alt="Captura de pantalla 2025-11-15 121811" src="https://github.com/user-attachments/assets/b3cc284c-e10b-4ae5-9194-afd0264f2a3f" />
+Luego de haber seleccionado Windows hosts, empieza el proceso de descarga de VirtualBox.

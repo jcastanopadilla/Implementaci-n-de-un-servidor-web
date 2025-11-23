@@ -130,3 +130,7 @@ Ahora procederemos a configurar la máquina virtual antes de Iniciarla. Para ell
 <img width="1365" height="767" alt="Captura de pantalla 2025-11-15 133010" src="https://github.com/user-attachments/assets/1f38104f-108c-476e-b8e0-e61de9a28f39" />
 
 Ahora se montará la imagen ISO del servidor de Ubuntu (de no hacerse de esta forma VirtualBox suele crearle un usuario sin permisos de super usuario y debe asignarlo manualmente). Para ello iremos a la sección de almacenamiento, luego en el controlador IDE que se encuentra vacío haremos clic, en la parte lateral de la pestaña denominada atributos haremos clic en el icono del CD y finalmente en la opción “Choose a disk file…”.
+
+<img width="1069" height="468" alt="Captura de pantalla 2025-11-15 133400" src="https://github.com/user-attachments/assets/2c405cdc-47e3-418f-aff2-ba4cffb8f559" />
+
+Se abrirá una nueva ventana donde debemos buscar la ISO del servidor Ubuntu, previamente obtenida, cuando se encuentre se selecciona y haremos clic en el botón abrir que se encuentra en la parte inferior.

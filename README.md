@@ -156,3 +156,13 @@ Se procede a configurar el teclado, si usted conoce su teclado puede asignarlo m
 En el tipo de instalación escogeremos la opción de Ubuntu server, para instalar completamente el sistema para tener una “mejor experiencia”, tal como lo indica el instalador.
 
 <img width="589" height="506" alt="imagen" src="https://github.com/user-attachments/assets/9eda337d-7f5d-4339-b057-30037bf5ae49" />
+
+Para las conexiones de red no realizaremos ningún ajuste, solo seleccionaremos hecho.
+
+<img width="648" height="554" alt="Captura de pantalla 2025-11-15 181959" src="https://github.com/user-attachments/assets/21fe2f11-66ac-427b-b28b-74f79a05b395" />
+
+No se configurará un proxy, por lo tanto, solo seleccionaremos hecho.
+
+<img width="593" height="504" alt="Captura de pantalla 2025-11-15 182053" src="https://github.com/user-attachments/assets/f9a2b4dd-b0c4-4cc0-a229-30900a4bf215" />
+
+En este nuevo paso se deja tal cual como viene por defecto (No modificar) y seleccionaremos hecho

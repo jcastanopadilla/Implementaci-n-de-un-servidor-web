@@ -7,4 +7,6 @@ Tema:
 # Jose Miguel Castaño Padilla
 
 OpenStack 
+Objetivo: Desplegar servicios de red en la nube mediante el framework OpenStack.
+## ¿Qué es OpenStack?
 

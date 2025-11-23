@@ -209,3 +209,7 @@ Al iniciar nos pedirá el usuario y contraseña, que hemos puesto con anteriorid
 <img width="585" height="329" alt="imagen" src="https://github.com/user-attachments/assets/b94b0448-3168-48af-afc4-4ff7307ff7ea" />
 
 ## Microstack (OpenStack)
+
+Procederemos a instalar Microstack
+- sudo su
+- apt update && apt upgrade

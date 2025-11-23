@@ -134,3 +134,10 @@ Ahora se montará la imagen ISO del servidor de Ubuntu (de no hacerse de esta fo
 <img width="1069" height="468" alt="Captura de pantalla 2025-11-15 133400" src="https://github.com/user-attachments/assets/2c405cdc-47e3-418f-aff2-ba4cffb8f559" />
 
 Se abrirá una nueva ventana donde debemos buscar la ISO del servidor Ubuntu, previamente obtenida, cuando se encuentre se selecciona y haremos clic en el botón abrir que se encuentra en la parte inferior.
+
+<img width="812" height="500" alt="Captura de pantalla 2025-11-15 134610" src="https://github.com/user-attachments/assets/ecbea6a5-288c-4062-a83d-cd3f4f50dac0" />
+
+<img width="808" height="475" alt="Captura de pantalla 2025-11-15 135112" src="https://github.com/user-attachments/assets/d9b4ace5-6957-4024-b49d-42c927a931dc" />
+
+En la misma ventana procedemos a abrir la sección denominada red, situándonos en la pestaña del adaptador (1) o primer adaptador, estableceremos la configuración de adaptador puente, seleccionaremos la tarjeta de red con la cual tengamos acceso a internet (en caso de tener dos “Wifi o Ethernet”) y finalmente clic al botón aceptar.
+

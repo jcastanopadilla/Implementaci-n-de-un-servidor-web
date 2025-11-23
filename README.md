@@ -64,3 +64,7 @@ En esta nueva ventana nos muestra las diversas herramientas que nos brinda Virtu
 Se deja todo por defecto para que nuestras maquinas virtuales, tengan todas las características que ofrece VirtualBox y damos clic en el botón Next.
 
 En esta nueva ventana, nos muestra una advertencia de que va a instalar una interfaz de red, debido a que prácticamente genera un adaptador de red adicional para las máquinas virtuales, para la correcta instalación, damos clic en el botón Yes.
+
+<img width="651" height="517" alt="Captura de pantalla 2025-11-15 124838" src="https://github.com/user-attachments/assets/ee365913-12f6-446a-92c7-d796114019f9" />
+
+Igualmente, en esta nueva ventana damos clic en Yes.

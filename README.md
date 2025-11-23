@@ -68,3 +68,7 @@ En esta nueva ventana, nos muestra una advertencia de que va a instalar una inte
 <img width="651" height="517" alt="Captura de pantalla 2025-11-15 124838" src="https://github.com/user-attachments/assets/ee365913-12f6-446a-92c7-d796114019f9" />
 
 Igualmente, en esta nueva ventana damos clic en Yes.
+
+<img width="650" height="518" alt="Captura de pantalla 2025-11-15 124918" src="https://github.com/user-attachments/assets/4cd3a0a6-e54b-4fce-a7b3-ad81aff1d4db" />
+
+En esta nueva ventana damos clic en Install, si queremos ejecutar la instalación.

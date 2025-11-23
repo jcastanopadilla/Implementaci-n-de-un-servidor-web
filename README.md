@@ -143,4 +143,8 @@ En la misma ventana procedemos a abrir la sección denominada red, situándonos 
 
 <img width="781" height="458" alt="imagen" src="https://github.com/user-attachments/assets/5ac9c090-ab43-4773-833a-cc9ee96755e3" />
 
+Al encender la maquina esperaremos un momento y nos saldrá el siguiente menú donde deberemos escoger el idioma del sistema, en este caso el español y presionamos la tecla enter.
+
+<img width="1172" height="716" alt="Captura de pantalla 2025-11-15 142915" src="https://github.com/user-attachments/assets/7df24284-f3ab-459b-91df-fb63f998c3d9" />
+
 ## Instalación de la Imagen de Ubuntu Server

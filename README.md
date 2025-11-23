@@ -183,3 +183,7 @@ Posteriormente nos solicitara una confirmación, seleccionaremos continuar.
 
 Procederemos a configurar el perfil del servidor, colocaremos nuestro nombre, el nombre del servidor (con este nombre se reconoce el equipo en la red).
 
+<img width="590" height="503" alt="imagen" src="https://github.com/user-attachments/assets/ed7fb542-2fb1-4820-a818-864b918a3c83" />
+
+## Recomendaciones:
+

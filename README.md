@@ -31,10 +31,7 @@ OpenStack está compuesto por una serie de proyectos o herramientas, cada uno en
 En este capítulo se abordará la instalación de los SO, softwares y componentes necesarios para el desarrollo de esta guía.
 ## REQUERIMIENTOS PREVIOS:
 Para el adecuado desarrollo de esta guía recomendamos satisfacer los siguientes aspectos:
-- Tener una conexión a internet
-- Procesador con más de 4 núcleos superior a los 2 GHZ
-- 8 GB de RAM o mas
-- 50 GB de espacio en almacenamiento o más
+
 
 
 

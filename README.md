@@ -154,3 +154,5 @@ Se procede a configurar el teclado, si usted conoce su teclado puede asignarlo m
 <img width="583" height="497" alt="imagen" src="https://github.com/user-attachments/assets/348e7781-6e5f-437d-b0e4-e9880aa8c644" />
 
 En el tipo de instalación escogeremos la opción de Ubuntu server, para instalar completamente el sistema para tener una “mejor experiencia”, tal como lo indica el instalador.
+
+<img width="589" height="506" alt="imagen" src="https://github.com/user-attachments/assets/9eda337d-7f5d-4339-b057-30037bf5ae49" />

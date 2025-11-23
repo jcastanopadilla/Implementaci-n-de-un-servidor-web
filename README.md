@@ -174,3 +174,12 @@ Para la configuración del almacenamiento optaremos por usar el disco entero, pa
 <img width="586" height="503" alt="imagen" src="https://github.com/user-attachments/assets/042cc943-6c03-418f-af43-08ddbf3af8b6" />
 
 Este nuevo paso es solo informativo, nos mostrara la distribución de las particiones del disco, el cual con anterioridad ha sido seleccionado para que tomara todo el disco y asignara automáticamente los tamaños apropiados; solo seleccionaremos hecho.
+
+<img width="588" height="504" alt="Captura de pantalla 2025-11-15 182757" src="https://github.com/user-attachments/assets/a08f52d1-4407-468b-9776-75390daf810d" />
+
+Posteriormente nos solicitara una confirmación, seleccionaremos continuar.
+
+<img width="589" height="502" alt="Captura de pantalla 2025-11-15 182910" src="https://github.com/user-attachments/assets/4c518a76-c52b-47a2-afe7-25bc3402ff56" />
+
+Procederemos a configurar el perfil del servidor, colocaremos nuestro nombre, el nombre del servidor (con este nombre se reconoce el equipo en la red).
+

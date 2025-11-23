@@ -113,3 +113,6 @@ Posteriormente crearemos la maquina con los parámetros que deseemos como el nom
 <img width="829" height="553" alt="Captura de pantalla 2025-11-15 131502" src="https://github.com/user-attachments/assets/6d73d741-6478-4a6b-b76d-ec6fbc05122c" />
 
 Luego, haremos clic en Hardware para asignarle algunos recursos a la máquina y asignaremos valores acordes a la maquina teniendo en cuenta las recomendaciones dadas en este capítulo.
+
+<img width="831" height="555" alt="Captura de pantalla 2025-11-15 132201" src="https://github.com/user-attachments/assets/84b834ca-1dde-4638-bddd-b78c24bf05e4" />
+

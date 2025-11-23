@@ -142,3 +142,5 @@ Se abrirá una nueva ventana donde debemos buscar la ISO del servidor Ubuntu, pr
 En la misma ventana procedemos a abrir la sección denominada red, situándonos en la pestaña del adaptador (1) o primer adaptador, estableceremos la configuración de adaptador puente, seleccionaremos la tarjeta de red con la cual tengamos acceso a internet (en caso de tener dos “Wifi o Ethernet”) y finalmente clic al botón aceptar.
 
 <img width="781" height="458" alt="imagen" src="https://github.com/user-attachments/assets/5ac9c090-ab43-4773-833a-cc9ee96755e3" />
+
+## Instalación de la Imagen de Ubuntu Server

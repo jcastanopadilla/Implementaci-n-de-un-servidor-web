@@ -243,3 +243,4 @@ Para poder hacer una gestión del sistema de forma visual procederemos a instala
 
 
 <img width="730" height="411" alt="imagen" src="https://github.com/user-attachments/assets/a431320c-9b8a-4212-a5b1-01ec295df3b7" />
+

@@ -30,7 +30,7 @@ OpenStack está compuesto por una serie de proyectos o herramientas, cada uno en
 
 ## INSTALACIÓN Y DESPLIEGUE
 En este capítulo se abordará la instalación de los SO, softwares y componentes necesarios para el desarrollo de esta guía.
-
+## REQUERIMIENTOS PREVIOS:
 
 
 

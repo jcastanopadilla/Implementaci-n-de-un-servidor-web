@@ -101,6 +101,7 @@ Donde hacemos clic en el botón verde que aparece.
 
 <img width="1365" height="679" alt="Captura de pantalla 2025-11-15 130249" src="https://github.com/user-attachments/assets/94a32f44-d49f-45a4-9251-5128f3952048" />
 
+
 <img width="1365" height="677" alt="Captura de pantalla 2025-11-15 130548" src="https://github.com/user-attachments/assets/b2fdf033-0690-45cd-be0d-4bc22be1c0e6" />
 
 Para crear la máquina virtual procedemos a agregar una nueva, desde la vista principal de VirtualBox, haciendo clic en el botón correspondiente como se observa en la figura.

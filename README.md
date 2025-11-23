@@ -72,3 +72,7 @@ Igualmente, en esta nueva ventana damos clic en Yes.
 <img width="650" height="518" alt="Captura de pantalla 2025-11-15 124918" src="https://github.com/user-attachments/assets/4cd3a0a6-e54b-4fce-a7b3-ad81aff1d4db" />
 
 En esta nueva ventana damos clic en Install, si queremos ejecutar la instalación.
+
+<img width="649" height="521" alt="Captura de pantalla 2025-11-15 124957" src="https://github.com/user-attachments/assets/23864410-8ef9-42e7-b46d-9be3e7dd8f18" />
+
+Esperamos que termine de cargar el proceso de instalación.

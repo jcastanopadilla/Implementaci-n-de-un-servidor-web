@@ -98,3 +98,5 @@ Como podemos observar ya se encuentra correctamente instalado virtualBox, listo 
 Una vez realizado el apartado anterior, nos dirigimos a la página de descargas en la web de Ubuntu.
 
 Donde hacemos clic en el botón verde que aparece.
+
+<img width="1365" height="679" alt="Captura de pantalla 2025-11-15 130249" src="https://github.com/user-attachments/assets/94a32f44-d49f-45a4-9251-5128f3952048" />

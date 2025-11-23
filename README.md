@@ -27,5 +27,14 @@ OpenStack está compuesto por una serie de proyectos o herramientas, cada uno en
 - Glance (Imágenes): Gestiona las plantillas de imágenes de sistemas operativos que se utilizan para desplegar las máquinas virtuales.
 - Horizon (Panel de control): Proporciona una interfaz gráfica de usuario (dashboard) para interactuar con los servicios de OpenStack, aunque también se puede gestionar mediante APIs.
 <img width="1024" height="1024" alt="ChatGPT Image 15 nov 2025, 11_47_32" src="https://github.com/user-attachments/assets/d871d138-b911-406a-a0f4-c929eeca526d" />
+## INSTALACIÓN Y DESPLIEGUE
+En este capítulo se abordará la instalación de los SO, softwares y componentes necesarios para el desarrollo de esta guía.
+## REQUERIMIENTOS PREVIOS:
+Para el adecuado desarrollo de esta guía recomendamos satisfacer los siguientes aspectos:
+- Tener una conexión a internet
+- Procesador con más de 4 núcleos superior a los 2 GHZ
+- 8 GB de RAM o mas
+- 50 GB de espacio en almacenamiento o más
+
 
 

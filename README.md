@@ -93,3 +93,8 @@ Al terminar, nos dirigimos al escritorio de nuestro ordenador y damos clic en el
 
 Como podemos observar ya se encuentra correctamente instalado virtualBox, listo para virtualizar cualquier sistema operativo.
 
+<img width="1364" height="724" alt="Captura de pantalla 2025-11-15 125736" src="https://github.com/user-attachments/assets/0a59ecfd-75c1-4008-b9b9-36ce7e9773bc" />
+
+Una vez realizado el apartado anterior, nos dirigimos a la página de descargas en la web de Ubuntu.
+
+Donde hacemos clic en el botón verde que aparece.

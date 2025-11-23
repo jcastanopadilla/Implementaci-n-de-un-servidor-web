@@ -166,3 +166,11 @@ No se configurará un proxy, por lo tanto, solo seleccionaremos hecho.
 <img width="593" height="504" alt="Captura de pantalla 2025-11-15 182053" src="https://github.com/user-attachments/assets/f9a2b4dd-b0c4-4cc0-a229-30900a4bf215" />
 
 En este nuevo paso se deja tal cual como viene por defecto (No modificar) y seleccionaremos hecho
+
+<img width="585" height="502" alt="Captura de pantalla 2025-11-15 182133" src="https://github.com/user-attachments/assets/efc058a6-369f-4af6-b3c7-319e2ee5ecea" />
+
+Para la configuración del almacenamiento optaremos por usar el disco entero, para automatizar la distribución de las particiones de este.
+
+<img width="586" height="503" alt="imagen" src="https://github.com/user-attachments/assets/042cc943-6c03-418f-af43-08ddbf3af8b6" />
+
+Este nuevo paso es solo informativo, nos mostrara la distribución de las particiones del disco, el cual con anterioridad ha sido seleccionado para que tomara todo el disco y asignara automáticamente los tamaños apropiados; solo seleccionaremos hecho.

@@ -54,3 +54,4 @@ Luego de haber seleccionado Windows hosts, empieza el proceso de descarga de Vir
 <img width="1365" height="675" alt="Captura de pantalla 2025-11-15 122536" src="https://github.com/user-attachments/assets/c0f0d7cf-1903-4f6b-9084-8cdb14e82fea" />
 
 Posteriormente cuando finalice la descarga iniciamos nuestra instalación.
+A continuación, se observa la imagen de bienvenida. Posteriormente damos clic, en el botón Next.

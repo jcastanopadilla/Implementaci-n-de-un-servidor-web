@@ -238,3 +238,8 @@ En esta etapa no sobrecargue el sistema de la maquina anfitrión (la computadora
 ## XFCE
 
 Para poder hacer una gestión del sistema de forma visual procederemos a instalar XFCE, el cual es un entorno grafico ligero para poder simular más un entorno de producción en nuestro servidor Ubuntu, para ello ejecutaremos la siguiente instrucción como super usuario (si estas en una sesión como super usuario ignora sudo).
+
+- sudo apt install -y xfce4
+
+
+<img width="730" height="411" alt="imagen" src="https://github.com/user-attachments/assets/a431320c-9b8a-4212-a5b1-01ec295df3b7" />

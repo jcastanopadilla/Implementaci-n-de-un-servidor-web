@@ -39,3 +39,4 @@ Para el adecuado desarrollo de esta guía recomendamos satisfacer los siguientes
 ## VIRTUAL BOX:
 En esta sección se realizará la correcta instalación de la máquina virtual Virtualbox y la creación de otras máquinas virtuales.
 ## INSTALACIÓN:
+Para empezar, ingresa en el navegador la página web de virtual box.

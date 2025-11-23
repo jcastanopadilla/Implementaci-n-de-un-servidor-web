@@ -61,3 +61,4 @@ En esta nueva ventana nos muestra las diversas herramientas que nos brinda Virtu
 
 <img width="648" height="514" alt="Captura de pantalla 2025-11-15 124635" src="https://github.com/user-attachments/assets/ed902414-e2d3-47c9-9886-d1c4c08a5660" />
 
+Se deja todo por defecto para que nuestras maquinas virtuales, tengan todas las características que ofrece VirtualBox y damos clic en el botón Next.

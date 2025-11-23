@@ -36,5 +36,5 @@ Para el adecuado desarrollo de esta guía recomendamos satisfacer los siguientes
 - Procesador con más de 4 núcleos superior a los 2 GHZ
 - 8 GB de RAM o mas
 - 50 GB de espacio en almacenamiento o más
-
+## VIRTUAL BOX:
 

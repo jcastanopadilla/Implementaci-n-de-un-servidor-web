@@ -227,3 +227,11 @@ Procederemos a instalar Microstack
 Para poder usar todo el ecosistema de openstack, debemos inicializar microstack, este procedimiento solo se debe realizar una sola vez, puede demorar entre 10 a 60 minutos dependiendo del equipo.
 
 - sudo microstack init --auto –control
+
+
+<img width="731" height="409" alt="imagen" src="https://github.com/user-attachments/assets/daffb4df-1fbb-463f-9209-8113d57a484e" />
+
+## Recomendaciones
+
+En esta etapa no sobrecargue el sistema de la maquina anfitrión (la computadora donde ejecuta VirtualBox), el computador tratara de consumir todos los recursos.
+

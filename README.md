@@ -106,3 +106,6 @@ Donde hacemos clic en el botón verde que aparece.
 
 Para crear la máquina virtual procedemos a agregar una nueva, desde la vista principal de VirtualBox, haciendo clic en el botón correspondiente como se observa en la figura.
 
+<img width="1363" height="720" alt="Captura de pantalla 2025-11-15 130927" src="https://github.com/user-attachments/assets/e0621bc6-002f-4942-be4b-4dadf088d569" />
+
+Posteriormente crearemos la maquina con los parámetros que deseemos como el nombre, en este caso Ubuntu Server, no se debe seleccionar la ISO en este paso.

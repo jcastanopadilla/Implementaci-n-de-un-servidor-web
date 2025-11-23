@@ -213,3 +213,14 @@ Al iniciar nos pedirá el usuario y contraseña, que hemos puesto con anteriorid
 Procederemos a instalar Microstack
 - sudo su
 - apt update && apt upgrade
+
+
+<img width="589" height="331" alt="imagen" src="https://github.com/user-attachments/assets/2b1d9765-8400-4ac5-9195-32ca55507583" />
+
+- snap install microstack –-beta
+
+
+<img width="730" height="411" alt="imagen" src="https://github.com/user-attachments/assets/86bcb976-a19b-4d8b-8ed0-420feb622f2d" />
+
+## Inicialización de microstack
+

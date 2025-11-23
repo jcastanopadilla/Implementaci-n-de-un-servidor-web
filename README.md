@@ -187,3 +187,6 @@ Procederemos a configurar el perfil del servidor, colocaremos nuestro nombre, el
 
 ## Recomendaciones:
 
+Tratar de usar nemotecnia para el nombre del servidor y de usuario, estos serán importantes más adelante.
+
+Use una contraseña corta para que pueda desarrollar con facilidad esta guía.

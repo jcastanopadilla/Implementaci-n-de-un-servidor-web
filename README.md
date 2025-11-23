@@ -37,4 +37,5 @@ Para el adecuado desarrollo de esta guía recomendamos satisfacer los siguientes
 - 8 GB de RAM o mas
 - 50 GB de espacio en almacenamiento o más
 ## VIRTUAL BOX:
-
+En esta sección se realizará la correcta instalación de la máquina virtual Virtualbox y la creación de otras máquinas virtuales.
+## INSTALACIÓN:

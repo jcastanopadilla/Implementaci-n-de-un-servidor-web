@@ -80,3 +80,10 @@ Esperamos que termine de cargar el proceso de instalación.
 <img width="649" height="518" alt="Captura de pantalla 2025-11-15 125029" src="https://github.com/user-attachments/assets/ac2ea172-648b-4cb8-8a91-cb31aae6ee48" />
 
 Luego de finalizar el proceso de instalación de forma correcta, en la siguiente ventana, el instalador preguntara si deseas iniciar virtualBox, en este caso desmarcamos la opción.
+
+<img width="650" height="513" alt="Captura de pantalla 2025-11-15 125103" src="https://github.com/user-attachments/assets/99ceb959-86fc-473a-9c63-7af06f6cc2a3" />
+
+Posteriormente de desmarcar la opción, damos clic en el botón Finish
+
+<img width="655" height="515" alt="Captura de pantalla 2025-11-15 125132" src="https://github.com/user-attachments/assets/17c98684-cdaa-488a-a89e-457f167d2024" />
+

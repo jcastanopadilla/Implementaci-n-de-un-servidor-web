@@ -76,3 +76,7 @@ En esta nueva ventana damos clic en Install, si queremos ejecutar la instalació
 <img width="649" height="521" alt="Captura de pantalla 2025-11-15 124957" src="https://github.com/user-attachments/assets/23864410-8ef9-42e7-b46d-9be3e7dd8f18" />
 
 Esperamos que termine de cargar el proceso de instalación.
+
+<img width="649" height="518" alt="Captura de pantalla 2025-11-15 125029" src="https://github.com/user-attachments/assets/ac2ea172-648b-4cb8-8a91-cb31aae6ee48" />
+
+Luego de finalizar el proceso de instalación de forma correcta, en la siguiente ventana, el instalador preguntara si deseas iniciar virtualBox, en este caso desmarcamos la opción.

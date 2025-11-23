@@ -235,3 +235,6 @@ Para poder usar todo el ecosistema de openstack, debemos inicializar microstack,
 
 En esta etapa no sobrecargue el sistema de la maquina anfitrión (la computadora donde ejecuta VirtualBox), el computador tratara de consumir todos los recursos.
 
+## XFCE
+
+Para poder hacer una gestión del sistema de forma visual procederemos a instalar XFCE, el cual es un entorno grafico ligero para poder simular más un entorno de producción en nuestro servidor Ubuntu, para ello ejecutaremos la siguiente instrucción como super usuario (si estas en una sesión como super usuario ignora sudo).

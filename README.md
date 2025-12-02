@@ -259,3 +259,10 @@ sudo apt -y install firefox
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ed6e954-ae8d-4ac0-8425-0390da845734" />
 
+Una vez culminada la instalación, podremos ver algo similar a la siguiente figura:
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3cc310b4-d6ac-41cd-b1ea-106deea1ef7a" />
+
+
+
+

@@ -246,4 +246,4 @@ Para poder hacer una gestión del sistema de forma visual procederemos a instala
 
 Después de instalado, para abrir XFCE debemos ejecutar la siguiente instrucción (no es necesario lanzarlo como super usuario):
 
-startx
+

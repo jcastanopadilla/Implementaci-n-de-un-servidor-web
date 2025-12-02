@@ -254,4 +254,8 @@ startx
 En producción no es recomendable usar entornos gráficos.
 ## Firefox
 Procederemos a instalar el navegador web Firefox, ver figura 46; para ello abrimos la consola y ejecutamos el siguiente comando:
+
 sudo apt -y install firefox
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ed6e954-ae8d-4ac0-8425-0390da845734" />
+

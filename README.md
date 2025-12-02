@@ -346,11 +346,6 @@ Si observamos en la figura anterior, se ha creado la regla y ha tomado una IPV4 
 
 Para la creación de una regla de un protocolo personalizado solo debemos repetir el procedimiento anterior con la diferencia de que debemos seleccionar la opción custom TCP rule o la opción que se acomode a su necesidad. Posteriormente observara más opciones que las mostradas en el caso de MYSQL, como por ejemplo la dirección de la comunicación (en caso de necesitar una comunicación bidireccional debe crear dos reglas), el tipo de puerto a abrir (si necesitamos un puerto, un rango de puertos o todos los puertos) y la última opción es para seleccionar si preferimos un grupo de seguridad o asignar la IP que queremos permitir.
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/1293e376-4e08-4bc6-8341-94ab8403373e" />
 
-En el caso de escoger entre un rango de puertos y un puerto especifico, hace variar los parámetros. Puesto que en el primer caso nos obligará a ingresar desde y hasta que puerto será el intervalo de puertos a permitir para un protocolo en específico.
-
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f9364bfb-32e0-4b08-957f-f765f837fae6" />
-
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e5313bc-432e-4a4c-97c3-31c4ec88443e" />
 

@@ -271,6 +271,14 @@ En esta sección se abordará la ejecución de openstack, donde se observará co
 
 Para abrir el dashboard de openstack principalmente debemos conocer la IP en la cual se encuentra montado el servidor para posteriormente abrir Firefox y colocar la IPV4 encontrada en la URL. Para ello ejecutaremos el siguiente comando:
 
+ip a s
+
+Posteriormente ejecutado el comando buscaremos la interfaz denominada br-ex, copiaremos su IPV4 de acceso y abriremos el navegador.
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d56868bf-3ecd-4866-bd26-ce018c21bc38" />
+
+
+
 
 
 

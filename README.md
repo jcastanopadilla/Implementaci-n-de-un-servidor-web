@@ -369,3 +369,25 @@ Aquí en este paso de Create Network se realizan todos esos paso primero en Netw
 Posteriormente se observará la nueva red creada en el listado de redes, con la subred asociada.
 
 ![WhatsApp Image 2025-12-02 at 5 55 29 PM](https://github.com/user-attachments/assets/8d0d6a39-81fa-4b16-a001-0173097861e7)
+
+Para visualizar gráficamente la topología general del proyecto, es necesario dirigirse a la sección de Network (red), la pestaña de Networks Topology (Topologia de la red). Posteriormente debemos hacer clic sobre Topology (Topologia), donde se observará la topología de la red.
+
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/acc00f1d-80e1-46a5-8f3b-7db8108469c0" />
+
+En la anterior figura se pudo observar la red previamente creada. Posteriormente se mostrará la visualización a modo de grafo de toda la infraestructura de red.
+
+## GESTIÓN DE ROUTERS
+
+A continuación, en esta sección se realizará la búsqueda de routers y la creación y traslado de interfaces.
+
+## BÚSQUEDA DE ROUTERS
+
+Existen dos formas de buscar los routers, mediante la topología de la red y dentro de su sección propia. Para visualizarlo gráficamente se puede observar la última parte de la sección anterior donde se enseñó a como acceder a esta, posteriormente y si necesita obtener información sobre un router, solo debe hacer clic sobre este, posteriormente para ver más a detalle el router, solo debemos hacer clic sobre la opción (View Router Details) ubicado en la esquina inferior izquierda dentro de la ventana emergente.
+
+![WhatsApp Image 2025-12-02 at 6 19 37 PM (2)](https://github.com/user-attachments/assets/5bc0fcd1-2563-4b00-9e0b-103ddf00f926)
+
+La segunda forma de visualizar los router dirigiéndose a la sección de Network (red), la pestaña de Routers desde allí se puede efectuar una búsqueda trivial de este, en todo el proyecto en cuestión.
+
+![WhatsApp Image 2025-12-02 at 6 34 16 PM](https://github.com/user-attachments/assets/e610ee2e-d022-47ca-a72d-17f67c39c5cf)
+
+

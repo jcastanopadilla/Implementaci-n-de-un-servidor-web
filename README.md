@@ -285,6 +285,16 @@ Nos pedirá un nombre de usuario y contraseña.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/381813d8-4d14-475a-a4ba-3a619488da99" />
 
+Para encontrar la contraseña del dashboard usamos el siguiente comando:
+
+sudo snap get microstack config.credentials.keystone-password
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/15cb7149-6d3e-4900-beb1-a3f3fd053123" />
+
+Posteriormente ingresamos esta contraseña con el usuario “admin”, estas son las credenciales para ingresar al dashboard de openstack.
+
+
+
 
 
 

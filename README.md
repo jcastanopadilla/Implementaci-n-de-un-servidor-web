@@ -315,3 +315,15 @@ Para crear un grupo de seguridad debemos situarnos dentro del proyecto, en la se
 
 Posteriormente se llenarán los campos requeridos como el nombre, la descripción es opcional, pero en un ambiente profesional es recomendable dejar un comentario de su funcionalidad de recordatorio o para que otro administrador comprenda que hace este y al culminar se hará clic sobre Create Security Group (Crear grupo de seguridad).
 
+Posteriormente nos mostrará el detalle del grupo seguridad como se verá en la siguiente subsección.
+
+## GESTIÓN DE LAS REGLAS DEL GRUPO DE SEGURIDAD
+
+A continuación, en este apartado se llevará a cabo la creación de reglas para protocolos.
+
+## CREACIÓN DE REGLAS PARA PROTOCOLOS POR DEFECTO.
+
+Posteriormente de haber creado el grupo de seguridad se abrirá el listado de las reglas de este. Para mostrar una práctica más realista el grupo de seguridad escogido, se abrirán los puertos para proveer servicios pequeños de servidores de bases de datos; por lo tanto, se supone que el servicio es MYSQL, para consumir este servicio debemos situarnos en la parte superior derecha del listado donde haremos clic sobre Add Rule (Agregar una regla).
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/66eb8093-0cdc-4d50-ad0d-3d1bed718e8e" />
+

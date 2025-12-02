@@ -351,3 +351,12 @@ Para la creación de una regla de un protocolo personalizado solo debemos repeti
 
 # GESTIÓN DE REDES
 
+En esta sección se procederá a la creación de una red.
+
+## Creación de una red
+
+Para crear una red debemos situarnos dentro del proyecto, en la sección de Network (red), la pestaña de Networks (Redes). Posteriormente debemos hacer clic sobre Create Network (Crear red), eso nos desplegara un modal.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/b4581a1a-287f-4912-b146-81a15a5b13a6" />
+
+

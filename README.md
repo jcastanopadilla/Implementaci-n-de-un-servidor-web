@@ -349,3 +349,5 @@ Para la creación de una regla de un protocolo personalizado solo debemos repeti
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e5313bc-432e-4a4c-97c3-31c4ec88443e" />
 
+# GESTIÓN DE REDES
+

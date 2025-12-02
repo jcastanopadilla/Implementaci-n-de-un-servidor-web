@@ -365,3 +365,7 @@ Para crear una red debemos situarnos dentro del proyecto, en la sección de Netw
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/3309692b-ef91-4653-90a4-db23898433d5" />
 
 Aquí en este paso de Create Network se realizan todos esos paso primero en Network se hacen los pasos igual como en la imagen y le damos Next, segundo paso es en Subnet como se muestra seguimos Next y final mente en Subnet Details no realizamos nada hay y creamos nuestro Network.
+
+Posteriormente se observará la nueva red creada en el listado de redes, con la subred asociada.
+
+![WhatsApp Image 2025-12-02 at 5 55 29 PM](https://github.com/user-attachments/assets/8d0d6a39-81fa-4b16-a001-0173097861e7)

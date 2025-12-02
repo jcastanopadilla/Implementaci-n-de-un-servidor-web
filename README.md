@@ -297,3 +297,16 @@ Posteriormente ingresamos esta contraseña con el usuario “admin”, estas son
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2e71cd6-3e4a-4ea0-8c0f-d462686ce32f" />
 
+## Descripción del panel de gestión general.
+
+Dentro del dashboard encontraremos diferentes opciones que pueden llegar a confundir en una primera impresión, por ello debemos tener en cuenta que openstack es muy amplio y podemos tener proyectos, que tienen diferentes desarrollos, arquitecturas y requerimientos. Para el desarrollo de esta guía trabajaremos con el proyecto que se incluye por defecto, no obstante, hay dos paneles de gestión, donde se puede gestionar el proyecto en cuestión o todos.
+
+<img width="536" height="328" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/a75412cb-f660-49af-be01-8a53bdf971bb" />
+
+## GESTIÓN DE GRUPOS DE SEGURIDAD
+
+En esta sección se procederá a la realización de la creación de un grupo de seguridad.
+
+## CREACIÓN DE UN GRUPO DE SEGURIDAD
+
+Para crear un grupo de seguridad debemos situarnos dentro del proyecto, en la sección de Network (red), la pestaña de Security Groups (Grupos de seguridad). Posteriormente debemos hacer clic sobre Create Security Group (Crear grupo de seguridad), eso nos desplegara un modal.

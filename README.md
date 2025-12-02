@@ -295,4 +295,5 @@ Posteriormente ingresamos esta contraseña con el usuario “admin”, estas son
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/073ece89-fc48-410d-a50f-a4460ba0ae64" />
 
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2e71cd6-3e4a-4ea0-8c0f-d462686ce32f" />
 

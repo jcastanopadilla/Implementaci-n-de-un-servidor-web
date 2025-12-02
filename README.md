@@ -313,4 +313,15 @@ Para crear un grupo de seguridad debemos situarnos dentro del proyecto, en la se
 
 <img width="902" height="466" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/47f8432e-dc91-4f5e-9d39-95fa273d37a1" />
 
+Posteriormente se llenarán los campos requeridos como el nombre, la descripción es opcional, pero en un ambiente profesional es recomendable dejar un comentario de su funcionalidad de recordatorio o para que otro administrador comprenda que hace este y al culminar se hará clic sobre Create Security Group (Crear grupo de seguridad).
+
+# Instalar Apache en Ubuntu Server
+
+## Actualizar repositorios
+
+sudo apt update && sudo apt upgrade -y
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc984fa6-10db-4318-b21f-f5949a2187f1" />
+
+
 

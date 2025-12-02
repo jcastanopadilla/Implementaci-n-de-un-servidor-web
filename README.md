@@ -263,6 +263,14 @@ Una vez culminada la instalación, podremos ver algo similar a la siguiente figu
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3cc310b4-d6ac-41cd-b1ea-106deea1ef7a" />
 
+## Ejecución y configuración
+
+En esta sección se abordará la ejecución de openstack, donde se observará como entrar como administrador y configurar el entorno completo.
+
+## Panel principal (Dashboard).
+
+Para abrir el dashboard de openstack principalmente debemos conocer la IP en la cual se encuentra montado el servidor para posteriormente abrir Firefox y colocar la IPV4 encontrada en la URL. Para ello ejecutaremos el siguiente comando:
+
 
 
 

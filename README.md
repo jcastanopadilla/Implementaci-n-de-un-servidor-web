@@ -311,5 +311,6 @@ En esta sección se procederá a la realización de la creación de un grupo de 
 
 Para crear un grupo de seguridad debemos situarnos dentro del proyecto, en la sección de Network (red), la pestaña de Security Groups (Grupos de seguridad). Posteriormente debemos hacer clic sobre Create Security Group (Crear grupo de seguridad), eso nos desplegara un modal.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/850d384c-ff83-48ff-a738-dee7b2be5612" />
+<img width="902" height="466" alt="Captura de pantalla (4)" src="https://github.com/user-attachments/assets/47f8432e-dc91-4f5e-9d39-95fa273d37a1" />
+
 

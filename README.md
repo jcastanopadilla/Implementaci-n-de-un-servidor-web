@@ -360,3 +360,9 @@ Para crear una red debemos situarnos dentro del proyecto, en la sección de Netw
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/b4581a1a-287f-4912-b146-81a15a5b13a6" />
 
 
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/b59591a0-4d48-447d-94c5-ae79415a17e9" />
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/3309692b-ef91-4653-90a4-db23898433d5" />
+
+
+

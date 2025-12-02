@@ -327,3 +327,17 @@ Posteriormente de haber creado el grupo de seguridad se abrirá el listado de la
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/66eb8093-0cdc-4d50-ad0d-3d1bed718e8e" />
 
+Posteriormente se nos abrirá un modal donde deberemos llenar la información de la regla a agregar.
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/483a5658-3bb3-470c-a48b-7d6970704783" />
+
+El primer campo para seleccionar es el tipo de protocolo, nos aparecerán varias opciones, escogeremos la de MYSQL para este ejemplo, posteriormente se mostrará cómo hacer para conexiones de Sistemas de Gestión de Bases de Datos (SGBD) con puertos diferentes al de por defecto. El segundo campo es el origen del tráfico a permitir mediante la regla, se puede usar un grupo de seguridad externo también, pero para este ejemplo se ha decidido dejar por defecto vacío, para permitir cualquier IPV4 se usa el comodín 0.0.0.0/0; para finalizar presionaremos en Add (Agregar).
+
+## Recomendaciones
+
+En producción no es recomendable permitir que cualquier IPV4 tenga acceso al servidor, puede generar una brecha de seguridad.
+Trate de no usar puertos por defecto en sus aplicaciones, los puertos por defecto le facilitan a un atacante acceder a sus sistemas de información.
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2478f6c-421d-4f2f-8d73-e1728e56f5cc" />
+
+

@@ -277,6 +277,12 @@ Posteriormente ejecutado el comando buscaremos la interfaz denominada br-ex, cop
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d56868bf-3ecd-4866-bd26-ce018c21bc38" />
 
+Una vez abierto el navegador en la IPV4 encontrada, nos puede salir una advertencia, ver figura 49. Para abrirla haremos clic en (avanzado) y luego en (aceptar el riesgo y continuar).
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/16e6fe51-ef90-4f9a-9e32-3bd289c3c565" />
+
+
+
 
 
 

@@ -323,5 +323,9 @@ sudo apt update && sudo apt upgrade -y
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc984fa6-10db-4318-b21f-f5949a2187f1" />
 
+## Instalar Apache
 
+sudo apt install apache2 -y
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d58eada-c369-44df-bb47-ba8f3afab36f" />
 

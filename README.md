@@ -432,4 +432,7 @@ Ahora se creará una interfaz con la subnet de servidores MySQL de la red de ser
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/f4ce6a42-2862-43e4-be35-892e00b559e9" />
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/cc0fcbb4-93db-4bb4-92a3-e8925e195315" />
 
+El resultado de la gestión de la red e interfaces, al visualizar el grafo y topología de la red, se puede observar en la figura dada a continuación:
 
+![2](https://github.com/user-attachments/assets/b3b54903-00ee-4f94-b6af-7d5c7f67387e)
+![1](https://github.com/user-attachments/assets/3b412e2f-be14-448f-bfb3-e8e8abf648e2)

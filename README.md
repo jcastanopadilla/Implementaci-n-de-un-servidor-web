@@ -411,4 +411,13 @@ Para crear un router, se puede desde dos lugares, sin embargo, por comodidad usa
 
 ![WhatsApp Image 2025-12-02 at 7 49 54 PM](https://github.com/user-attachments/assets/0c23e806-e2ea-46cb-8ca4-c901edc1a2a7)
 
+Desplegara un modal donde es necesario especificar el nombre de la red, la red externa es acorde a sus requerimientos (puede asilar el router de la red externa en caso de requerirlo, consulte la documentación de openstack oficial para más información).
+
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/ffc26775-b0de-4171-80d8-aa97fbf64ad1" />
+
+Posteriormente en la topología de red observaremos un nuevo router, conectado a la red externa.
+
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/1a3ac667-1e2f-42b6-9fd7-1a0992eae4a1" />
+
+
 

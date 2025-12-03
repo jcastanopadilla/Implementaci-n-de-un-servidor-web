@@ -405,3 +405,10 @@ Para observar esta configuración se puede proceder gráficamente, dirigiéndose
 <img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/8f722b29-2418-4c08-9b43-908191e6b35b" />
 <img width="1366" height="1022" alt="image" src="https://github.com/user-attachments/assets/f3fe0caf-e119-4df7-865d-62513b0c1a7f" />
 
+## CREACIÓN DE UN ROUTER Y TRASLADO DE INTERFACES.
+
+Para crear un router, se puede desde dos lugares, sin embargo, por comodidad usaremos directamente la sección de topología de la red (Mostrada previamente), donde se realiza un clic sobre (créate router).
+
+![WhatsApp Image 2025-12-02 at 7 49 54 PM](https://github.com/user-attachments/assets/0c23e806-e2ea-46cb-8ca4-c901edc1a2a7)
+
+

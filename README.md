@@ -436,3 +436,28 @@ El resultado de la gestión de la red e interfaces, al visualizar el grafo y top
 
 ![2](https://github.com/user-attachments/assets/b3b54903-00ee-4f94-b6af-7d5c7f67387e)
 ![1](https://github.com/user-attachments/assets/3b412e2f-be14-448f-bfb3-e8e8abf648e2)
+
+## GESTIÓN DE INSTANCIAS
+
+A continuación, se procederá a la creación de instancias
+
+## CREACIÓN DE INSTANCIAS.
+
+Para crear una instancia debemos situarnos dentro del proyecto, en la sección de Compute, dentro de la pestaña de Instances (Instancias). Posteriormente debemos hacer clic sobre Launch Instance (Lanzar Instancia), eso nos desplegara un modal.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/8ed52212-caab-4074-a821-7239001d7e04" />
+
+Posteriormente nos dirigiremos a detalles (Details), especificaremos el nombre de la instancia (en este caso solo por prueba se coloca finance, usted puede colocar el que desee).
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/f0f9b647-ca3e-479c-ae66-8fabb76a4107" />
+
+Posteriormente en la opción Source, especificaremos la plantilla usada para crear la instancia, en este caso por defecto viene disponibles cirros, la asignaremos con la flecha hacia arriba.
+
+![WhatsApp Image 2025-12-02 at 9 10 01 PM](https://github.com/user-attachments/assets/e13bb554-3c55-4d3a-a0d0-2b4c3915e06d)
+
+Una vez este asignada la plantilla, deberá quedar así.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/4491bf73-cf76-44f0-b3da-2abea40b4066" />
+
+
+

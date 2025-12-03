@@ -479,3 +479,12 @@ Finalmente, al lanzar la instancia, se visualizará la siguiente información y 
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/6ba18649-2a8f-4361-aa03-9337a2475e81" />
 
 
+## VISUALIZACIÓN DE LA INSTANCIA EN LA TOPOLOGÍA DE LA RED.
+
+Como previamente se indicó en la instalación, se ha asignado la red de pruebas para la
+instancia en cuestión y al observar la topología de la red tendremos que esta es evidenciable
+en la topología de la red.
+
+<img width="558" height="472" alt="image" src="https://github.com/user-attachments/assets/1ab00110-da2f-42e1-a3d4-6a9e80948ce2" />
+<img width="387" height="446" alt="image" src="https://github.com/user-attachments/assets/5cc35047-1c87-4429-beef-e1ca9f55ec97" />
+

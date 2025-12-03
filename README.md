@@ -560,40 +560,75 @@ http://192.168.101.9:8888
 ## Código implementado para la página web
 
 <!DOCTYPE html>
+
 <html lang="es">
+    
 <head>
+    
     <meta charset="UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>Configuración de Redes</title>
+    
     <style>
+    
         body {
+        
             font-family: Arial, sans-serif;
+            
             background-color: greenyellow;
+            
             margin: 0;
+            
             padding: 20px;
+            
         }
+        
         h1 {
+        
             text-align: center;
+            
             color: red;
+            
         }
+        
         section {
+        
             background: wheat;
+            
             padding: 20px;
+            
             margin: 20px auto;
+            
             max-width: 800px;
+            
             border-radius: 10px;
+            
             box-shadow: 0 0 10px wheat;
+            
         }
+        
         h2 {
+        
             color: green;
+            
         }
+        
         p {
+        
             font-size: 16px;
+            
             line-height: 1.6;
+            
         }
+        
     </style>
+    
 </head>
+
 <body>
+    
     <h1>Configuración de Redes</h1>
 
     <section>

@@ -464,3 +464,7 @@ En la pestaña de flavor, se especificaran los recursos de la instancia, estos s
 ![WhatsApp Image 2025-12-02 at 9 25 14 PM](https://github.com/user-attachments/assets/5c53e344-38ce-4bda-9c1c-80545eb83474)
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/a170e7f7-4ec8-40ca-a3ad-1bd818a71e34" />
 
+En la pestaña de Networks se le asignaran las redes a la instancia, para esta instancia se le asignara la de pruebas (test).
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/be515e0e-012d-4910-b03c-89f601a402b1" />
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/8c725577-bbb3-4e9c-94b0-18468f916180" />

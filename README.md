@@ -457,7 +457,5 @@ Posteriormente en la opción Source, especificaremos la plantilla usada para cre
 
 Una vez este asignada la plantilla, deberá quedar así.
 
-<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/4491bf73-cf76-44f0-b3da-2abea40b4066" />
-
-
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/5a252a3a-0c32-485b-b6af-9404ad02899e" />
 

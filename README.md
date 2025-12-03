@@ -553,7 +553,64 @@ http://192.168.101.9:8888
 
 <img width="1366" height="1226" alt="image" src="https://github.com/user-attachments/assets/45fc3b06-51a6-4213-8e78-64341c95450b" />
 
+# Mi página web
 
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/1009ad44-cdf3-461e-ab6e-33c9f764c8e2" />
 
+## Código implementado para la página web
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuración de Redes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: greenyellow;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: red;
+        }
+        section {
+            background: wheat;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px wheat;
+        }
+        h2 {
+            color: green;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Configuración de Redes</h1>
 
+    <section>
+        <h2>¿Qué es OpenStack?</h2>
+        <p>OpenStack es una plataforma de software libre que permite crear y gestionar nubes públicas y privadas. Facilita la administración de recursos como máquinas virtuales, redes y almacenamiento.</p>
+    </section>
+
+    <section>
+        <h2>¿Qué es Apache?</h2>
+        <p>Apache es un servidor web de código abierto que permite alojar y servir páginas web mediante el protocolo HTTP. Es uno de los servidores web más utilizados en el mundo.</p>
+    </section>
+
+    <section>
+        <h2>¿Para qué sirven?</h2>
+        <p>OpenStack se utiliza para implementar infraestructuras en la nube, mientras que Apache sirve para alojar sitios web y aplicaciones en internet.</p>
+    </section>
+</body>
+</html>
+
+# Muchas gracias..

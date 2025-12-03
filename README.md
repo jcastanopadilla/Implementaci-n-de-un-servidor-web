@@ -419,5 +419,17 @@ Posteriormente en la topología de red observaremos un nuevo router, conectado a
 
 <img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/1a3ac667-1e2f-42b6-9fd7-1a0992eae4a1" />
 
+Se realizará un traslado de la interfaz conectada a la red bases de datos del router de prueba (test-router), para ello, es necesario eliminarla del router de pruebas para posteriormente agregarla al nuevo router.
+
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/af40f1fd-5ca7-4715-a122-3d12179c6ae5" />
+
+Se observará en la topología de la red, que el router de prueba se encuentra con una interfaz hacia la red de prueba (test) y que la conexión entre este y subred interna de los servidores de bases de datos no existe.
+
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/d9d9e2b8-a2ff-4922-87b3-cc96ff710e00" />
+
+Ahora se creará una interfaz con la subnet de servidores MySQL de la red de servidores de bases de datos, en el router previamente creado.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/f4ce6a42-2862-43e4-be35-892e00b559e9" />
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/cc0fcbb4-93db-4bb4-92a3-e8925e195315" />
 
 

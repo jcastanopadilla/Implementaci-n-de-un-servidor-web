@@ -400,5 +400,8 @@ Posteriormente se nos abrirá un modal donde deberemos seleccionar la subred a c
 
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/7a01b5d3-8049-40b6-b312-d41b16d261ba" />
 
+Para observar esta configuración se puede proceder gráficamente, dirigiéndose a la sección de Network (red), la pestaña de Networks Topology (Topologia de la red). Posteriormente debemos hacer clic sobre Topology (Topologia), donde se observará la topología de la red del proyecto y el router configurado, también se podrá observar a modo de grafo simplificando, el esquema completo de la red.
 
+<img width="1366" height="792" alt="image" src="https://github.com/user-attachments/assets/8f722b29-2418-4c08-9b43-908191e6b35b" />
+<img width="1366" height="1022" alt="image" src="https://github.com/user-attachments/assets/f3fe0caf-e119-4df7-865d-62513b0c1a7f" />
 

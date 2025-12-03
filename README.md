@@ -459,3 +459,8 @@ Una vez este asignada la plantilla, deberá quedar así.
 
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/5a252a3a-0c32-485b-b6af-9404ad02899e" />
 
+En la pestaña de flavor, se especificaran los recursos de la instancia, estos se pueden crear y cambiar (en una sección posterior, se mostrara), se escoge a m1.tiny.
+
+![WhatsApp Image 2025-12-02 at 9 25 14 PM](https://github.com/user-attachments/assets/5c53e344-38ce-4bda-9c1c-80545eb83474)
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/a170e7f7-4ec8-40ca-a3ad-1bd818a71e34" />
+

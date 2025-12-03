@@ -468,3 +468,14 @@ En la pestaña de Networks se le asignaran las redes a la instancia, para esta i
 
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/be515e0e-012d-4910-b03c-89f601a402b1" />
 <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/8c725577-bbb3-4e9c-94b0-18468f916180" />
+
+Finalmente, si queremos asignar un grupo de seguridad, desde la pestaña Security Groups se puede asignar la que se creó en secciones anteriores y se realiza un clic en lanzar instancia (Launch instance).
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/1d16123f-b51c-4306-8ecf-e8ca8452e3e4" />
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/0067ac89-1bbb-44f9-8603-59392e091605" />
+
+Finalmente, al lanzar la instancia, se visualizará la siguiente información y solo es esperar a que se configure la instancia automáticamente.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/6ba18649-2a8f-4361-aa03-9337a2475e81" />
+
+

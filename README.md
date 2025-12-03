@@ -488,3 +488,72 @@ en la topología de la red.
 <img width="558" height="472" alt="image" src="https://github.com/user-attachments/assets/1ab00110-da2f-42e1-a3d4-6a9e80948ce2" />
 <img width="387" height="446" alt="image" src="https://github.com/user-attachments/assets/5cc35047-1c87-4429-beef-e1ca9f55ec97" />
 
+## GESTIÓN DE VCPU Y RAM (FLAVORS)
+
+En esta sección se procederá a la creación de un flavors
+
+## CREACIÓN DE UN FLAVORS
+
+Para crear un Flavor debemos situarnos dentro del proyecto, en la sección de Compute,
+dentro de la pestaña de Flavors. Posteriormente debemos hacer clic sobre Create Flavor,
+eso nos desplegara un modal.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/b3b87821-e9fd-45e1-9352-78e33e2c847d" />
+
+Posteriormente ingresaremos los recursos a asignar.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/c881dc1f-024c-4eee-8d9e-187194f46e4e" />
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/a4aeb36a-0f8c-47f5-9e05-a3eb5a2dc686" />
+
+
+La memoria Swap (Paso 5) es opcional, pero sin embargo suele ser sutil, el paso 6 es
+opcional, es solo para restringir el acceso de los Flavors a determinados proyectos. Al
+culminar se visualizará el Flavor en su panel de gestión
+
+<img width="1366" height="668" alt="image" src="https://github.com/user-attachments/assets/eec880c2-f40d-4b22-bad4-2354fe8eb735" />
+
+# Apache2
+
+Apache es un servidor web HTTP de código abierto. Está desarrollado y mantenido por una comunidad de usuarios en torno a la Apache Software Foundation.
+Actualmente y desde el 1996, es el servidor web más usado en todo el mundo debido a su seguridad y estabilidad.
+Nuestros servidores Linux tienen instalado Apache+Nginx como servidor web.
+
+## ¿Cómo funciona Apache?
+
+La funcionalidad principal de este servicio web es servir a los usuarios todos los ficheros necesarios para visualizar la web. Las solicitudes de los usuarios se hacen normalmente mediante un navegador (Chrome, Firefox, Safari, etc.).
+
+Para iniciar Apache en linux escribimos el siguiente comando:
+
+## 1. Iniciar Apache2 en Ubuntu Server
+
+sudo systemctl start apache2
+
+## 2. Verificar que Apache está corriendo
+
+sudo systemctl status apache2
+
+Si está funcionando debe salir active (running) en verde.
+## 3. Habilitar Apache para que se inicie automático
+
+sudo systemctl enable apache2
+
+## 4. Abrir tu página web desde el navegador 
+
+Como en nuestro Ubuntu Server tenemos interfaz gráfica, podemos acceder a nuestro apache2.
+
+* Mira la IP de tu servidor:
+
+ip a
+
+(La IP aparece en enp0s3 o eth0, en este caso mi ip 192.168.101.9)
+
+* En el navegador de tu PC escribe:
+
+http://192.168.101.9:8888
+
+<img width="1366" height="1226" alt="image" src="https://github.com/user-attachments/assets/45fc3b06-51a6-4213-8e78-64341c95450b" />
+
+
+
+
+

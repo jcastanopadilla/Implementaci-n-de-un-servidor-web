@@ -390,4 +390,15 @@ La segunda forma de visualizar los router dirigiéndose a la sección de Network
 
 ![WhatsApp Image 2025-12-02 at 6 34 16 PM](https://github.com/user-attachments/assets/e610ee2e-d022-47ca-a72d-17f67c39c5cf)
 
+## GESTIÓN DE UN ROUTER Y SUS INTERFACES.
+
+Una vez situados en el router accederemos a las interfaces de este para hacer conexiones entre las diferentes redes y subredes definidas previamente, para ello dentro de la pestaña (Interfaces), se hará clic sobre (Add interfaz), para agregar una nueva interfaz.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/5d1cd9aa-6c04-4a83-8773-c9f34cd4eec2" />
+
+Posteriormente se nos abrirá un modal donde deberemos seleccionar la subred a conectar a nuestro router, recordando las secciones previas donde esta ha sido creado para este ejemplo particular, dentro de la red servidores de bases de datos se escogerá la subred de servidores MySQL.
+
+<img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/7a01b5d3-8049-40b6-b312-d41b16d261ba" />
+
+
 

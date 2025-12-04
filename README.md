@@ -1,9 +1,12 @@
 # Implementación de un servidor web 
 Asignatura: Configuración de redes
+
 Tema: 
 -	OpenStack
 -	Instalar y configurar Apache o Nginx.
 -	Desplegar una aplicación web sencilla.
+
+Docente: 
 ## Jose Miguel Castaño Padilla
 
 OpenStack 

@@ -6,7 +6,7 @@ Tema:
 -	Instalar y configurar Apache o Nginx.
 -	Desplegar una aplicación web sencilla.
 
-Docente: 
+Docente: JORGE ELIECER GOMEZ GOMEZ
 ## Jose Miguel Castaño Padilla
 
 OpenStack 
